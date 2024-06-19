@@ -14,7 +14,7 @@ The following recepies should be followed as listed:
 10. Cookie Clicker
 
 
-This code can be used by copying the files into a sketch in editor.p5js.org
+This code can be used by copying the files into a sketch in editor.p5js.org. https://editor.p5js.org/
 
 STEPS:
 
